@@ -11,11 +11,6 @@ Decides KPI and metrics to Generate recommendations to increase Performance of A
 Handled Schema Creation,Data ingestion with Data Cleaning Transformation to Create Processed dataset and Performed Analysis.
 
 ![Screenshot (38)](https://user-images.githubusercontent.com/64656456/168226740-9b599b73-93db-4a73-b1c5-ca6b9a9e4fae.png)
-
-
-
-![Screenshot (40)](https://user-images.githubusercontent.com/64656456/168226735-f8fb81f3-4d20-4387-a118-0bef99138ba0.png)
-![Screenshot (39)](https://user-images.githubusercontent.com/64656456/168227023-fdddc3a3-2412-4464-81ed-103ba57002f3.png)
 ![Screenshot (40)](https://user-images.githubusercontent.com/64656456/168227029-aea1e54b-a4a7-4967-bcce-cb435aaeb2f2.png)
 ![Screenshot (41)](https://user-images.githubusercontent.com/64656456/168227039-e458fe94-eb85-4465-a450-0f1f07d75761.png)
 ![Screenshot (42)](https://user-images.githubusercontent.com/64656456/168227044-3cd34fbd-8da8-4cb8-aa3f-fbe92f31e9ba.png)
