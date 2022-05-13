@@ -12,8 +12,11 @@ Handled Schema Creation,Data ingestion with Data Cleaning Transformation to Crea
 
 ![Screenshot (38)](https://user-images.githubusercontent.com/64656456/168226740-9b599b73-93db-4a73-b1c5-ca6b9a9e4fae.png)
 
-![Screenshot (44)](https://user-images.githubusercontent.com/64656456/168226702-d63545e2-ffa1-4371-8d81-701![Screenshot (43)](https://user-images.githubusercontent.com/64656456/168226714-a6c4da39-7ee3-4f13-b67b-c4ccb9c28e8f.png)
-741b20f55.png)
-![Uploading Screenshot (42)![Screenshot (41)](https://user-images.githubusercontent.com/64656456/168226729-36904700-9be4-4203-a45d-62d642e941de.png)
-.png…]()
+
+
 ![Screenshot (40)](https://user-images.githubusercontent.com/64656456/168226735-f8fb81f3-4d20-4387-a118-0bef99138ba0.png)
+![Screenshot (39)](https://user-images.githubusercontent.com/64656456/168227023-fdddc3a3-2412-4464-81ed-103ba57002f3.png)
+![Screenshot (40)](https://user-images.githubusercontent.com/64656456/168227029-aea1e54b-a4a7-4967-bcce-cb435aaeb2f2.png)
+![Screenshot (41)](https://user-images.githubusercontent.com/64656456/168227039-e458fe94-eb85-4465-a450-0f1f07d75761.png)
+![Screenshot (42)](https://user-images.githubusercontent.com/64656456/168227044-3cd34fbd-8da8-4cb8-aa3f-fbe92f31e9ba.png)
+![Screenshot (43)](https://user-images.githubusercontent.com/64656456/168227053-9eac7f0e-893f-404a-ac3d-6366acc41468.png)
