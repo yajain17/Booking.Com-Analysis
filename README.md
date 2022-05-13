@@ -13,5 +13,6 @@ Handled Schema Creation,Data ingestion with Data Cleaning Transformation to Crea
 ![Screenshot (38)](https://user-images.githubusercontent.com/64656456/168226740-9b599b73-93db-4a73-b1c5-ca6b9a9e4fae.png)
 ![Screenshot (40)](https://user-images.githubusercontent.com/64656456/168227029-aea1e54b-a4a7-4967-bcce-cb435aaeb2f2.png)
 ![Screenshot (41)](https://user-images.githubusercontent.com/64656456/168227039-e458fe94-eb85-4465-a450-0f1f07d75761.png)
-![Screenshot (42)](https://user-images.githubusercontent.com/64656456/168227044-3cd34fbd-8da8-4cb8-aa3f-fbe92f31e9ba.png)
-![Screenshot (43)](https://user-images.githubusercontent.com/64656456/168227053-9eac7f0e-893f-404a-ac3d-6366acc41468.png)
+
+![Screenshot (45)](https://user-images.githubusercontent.com/64656456/168227757-eb79a0cb-63fe-45a4-a7db-56ba583140d2.png)
+![Screenshot (44)](https://user-images.githubusercontent.com/64656456/168227764-2d5df63d-ff96-4134-97e7-6a2e7e0d31d4.png)
